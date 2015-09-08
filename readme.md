@@ -7,4 +7,5 @@
 * this
 
 ## Day2 gethab
-
+1. GitとGithub
+2. Vagrant
